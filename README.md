@@ -32,8 +32,9 @@ Please find attached the following two notebooks for bitcoin twitter and financi
 
 
 ##### References
-Time series prediction using Prophet in Python by Renu Khandelwal
-Housing pices EDA and Prediction by Ruchi Bhatia 88.9 r2_score with pycaret by Kerem Yucedag
-Pycaret documentation
+1. Time series prediction using Prophet in Python by Renu Khandelwal
+2. Housing pices EDA and Prediction by Ruchi Bhatia
+3. 88.9 r2_score with pycaret by Kerem Yucedag
+4. Pycaret documentation
 
 

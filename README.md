@@ -1,11 +1,9 @@
-### Correlation between BTC market movement based on twitter feeds related to bitcoin
+## Correlation between BTC market movement based on twitter feeds related to bitcoin
 
-**Tauseef Bashir**
+**by Tauseef Bashir**
 
 #### Executive summary
-
-#### Rationale
-With the growth of market capitalization of cryptocurrencies (increased from $17 billion in 2017 to $2.25 trillion in 2021), cryptocurrencies remain incredibly volatile, with their value impacted by a multitude of factors: market trends, politics, technology…and Twitter. There have been instances where their prices were affected by tweets by famous personalities (Links to an external site.).
+With the growth of market capitalization of cryptocurrencies (increased from $17 billion in 2017 to $2.25 trillion in 2021), cryptocurrencies remain incredibly volatile, with their value impacted by a multitude of factors: market trends, politics, technology…and Twitter. There have been instances where their prices were affected by tweets by famous personalities and the general public.
 
 I plan to analyze trends over time, particularly the impact of social media on the price volatility of a crypto asset, such as Bitcoin (BTC).
 

@@ -20,7 +20,7 @@ BTC historical data:
 https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
 
 #### Results
-Please see the attached notebooks for setailed graphs and conclutions.
+Please see the attached notebooks for setailed graphs and conclusions.
 
 
 #### Notebooks
